@@ -161,7 +161,7 @@ npm run start
 
 ## Deployment (submission)
 
-Deploy to **Vercel**, **Netlify**, or **GitHub Pages** (static export would require a small Next config change). After deploy, share the **live URL** plus this repository as required by the assignment brief.
+Deployment to **Vercel**, **Netlify**, or **GitHub Pages** (static export would require a small Next config change).
 
 ---
 
@@ -176,7 +176,7 @@ Deploy to **Vercel**, **Netlify**, or **GitHub Pages** (static export would requ
 
 ## Summary
 
-This project demonstrates the ability to build a **high-end interactive frontend experience** that blends:
+My project aims to demonstrate the ability to build a **high-end interactive frontend experience** that blends:
 
 - Product thinking
 - Visual design
