@@ -2,6 +2,13 @@
 const nextConfig = {
   experimental: {
     typedRoutes: true
+  },
+  webpack(config) {
+    config.module.rules.push({
+      test: /\.(mp4|webm)$/i,
+      type: 'asset/resource'
+    });
+    return config;
   }
 };
 
